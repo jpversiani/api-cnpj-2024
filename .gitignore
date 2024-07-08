@@ -1,0 +1,8 @@
+# Arquivos de configuração
+.env
+
+#__pycache__/
+#*.pyc
+#*.pyo
+#.DS_Store
+#.vscode/
