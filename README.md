@@ -1,4 +1,11 @@
 ## SlimAPI - API-CNPJ-2024
+Python
+FastAPI (REST API)
+Gunicorn (WSGI HTTP Server)
+Docker / Docker Compose (Container Orchestration)
+Nginx (Load Balancer)
+Postgres (Database)
+Redis (Distributed Cache)
 
 ## Atualizar lista de pacotes e instalar o Git
 
